@@ -1,4 +1,4 @@
-,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
+,City,Cloudiness,Country,Date,Humidity,Latitude,Longitude,Max Temp,Wind Speed
 0,Dikson,99,RU,1612498876,88,73.5069,80.5464,-14.26,10.49
 1,Hithadhoo,100,MV,1612498856,76,-0.6,73.0833,82.54,11.52
 2,George Town,20,MY,1612499022,51,5.4112,100.3354,87.8,2.3
